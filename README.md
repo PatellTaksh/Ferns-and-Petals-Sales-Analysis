@@ -20,4 +20,4 @@ The project uses **multiple sales datasets containing product orders, customer d
 - Analyzed **revenue trends over time**.
 
 ## Dashboard
-![Sales Dashboard](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1773506660631-20qlqgjpu.png)
+![Sales Dashboard](FNP_Sales_Dashboard.png)
